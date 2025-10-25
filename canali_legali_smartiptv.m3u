@@ -1,0 +1,50 @@
+#EXTM3U
+
+# Generalisti
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Rai_1_logo_2010.svg" group-title="Generalisti",RAI 1
+https://www.raiplay.it/dirette/rai1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Rai_2_logo_2010.svg" group-title="Generalisti",RAI 2
+https://www.raiplay.it/dirette/rai2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Rai_3_logo_2010.svg" group-title="Generalisti",RAI 3
+https://www.raiplay.it/dirette/rai3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Canale_5_Logo.svg" group-title="Generalisti",Canale 5
+https://mediasetinfinity.mediaset.it/diretta/_cC5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Italia_1_Logo.svg" group-title="Generalisti",Italia 1
+https://mediasetinfinity.mediaset.it/diretta/_cI1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rete_4_Logo.svg" group-title="Generalisti",Rete 4
+https://mediasetinfinity.mediaset.it/diretta/_cR4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/LA7_logo.svg" group-title="Generalisti",La7
+https://www.la7.it/dirette-tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/TV8_Logo.svg" group-title="Generalisti",TV8
+https://www.tv8.it/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NOVE_Logo.svg" group-title="Generalisti",NOVE
+https://nove.tv/live-streaming-nove
+
+# News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/RaiNews24_Logo.svg" group-title="News",RAI News 24
+https://www.raiplay.it/dirette/rainews24
+
+# Cultura / Storia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Rai_Storia_logo.svg" group-title="Cultura",Rai Storia
+https://www.raiplay.it/dirette/raistoria
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Focus_logo.svg" group-title="Cultura",Focus
+https://www.discoveryplus.it/canali/focus
+
+# Ragazzi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/RaiGulp_Logo.svg" group-title="Ragazzi",Rai Gulp
+https://www.raiplay.it/dirette/raigulp
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/RaiYoyo_logo.svg" group-title="Ragazzi",Rai Yoyo
+https://www.raiplay.it/dirette/raiyoyo
+
+# Cinema / Intrattenimento
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/RaiMovie_Logo.svg" group-title="Cinema",Rai Movie
+https://www.raiplay.it/dirette/raimovie
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/RaiPremium_Logo.svg" group-title="Intrattenimento",Rai Premium
+https://www.raiplay.it/dirette/raipremium
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Iris_logo.svg" group-title="Cinema",Iris
+https://www.mediasetplay.mediaset.it/diretta/_cIris
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Cine34_logo.svg" group-title="Cinema",Cine34
+https://www.mediasetplay.mediaset.it/diretta/_cCine34
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/MediasetExtra_logo.svg" group-title="Intrattenimento",Mediaset Extra
+https://www.mediasetplay.mediaset.it/diretta/_cExtra
+
